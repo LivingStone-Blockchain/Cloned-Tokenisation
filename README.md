@@ -16,3 +16,7 @@ npx hardhat help
 
 //Deploying contracts with the account: 0xC86Dbf1B07A6dc5A4D4834166229A4bD73c6eb9B
 TokenizedAsset deployed to: 0xEeedEDdF34950608430F613c06A1A7fD56122742
+
+starting up the server
+cd to digital tokenisation
+http-server -p 8081
